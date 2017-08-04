@@ -1,1 +1,1 @@
-# algospot    .
+# algospot에서 제공하는 문제들을 풀이하는 방입니다.
