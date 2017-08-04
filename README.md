@@ -1,1 +1,1 @@
-# algospot
+# algospot    .
